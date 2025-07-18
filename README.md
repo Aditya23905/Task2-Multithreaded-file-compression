@@ -1,5 +1,17 @@
 # Task 2: Multithreaded File Compression Tool
 
+Company:- Codtech IT Soutions 
+
+Name:- Aditya Deokar 
+
+Intern ID:- CT08DL621
+
+Domain:- C++ Programming
+
+Duration:- 8 Weeks
+
+Mentor:- Neela Santosh Kumar
+
 ## Description
 This project demonstrates multithreading in C++ by simulating file compression and decompression operations.
 
