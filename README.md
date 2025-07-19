@@ -28,3 +28,5 @@ This project demonstrates multithreading in C++ by simulating file compression a
 ## Output Example
 compression done 
 decompression done
+
+<img width="1060" height="381" alt="Image" src="https://github.com/user-attachments/assets/9fd2e56d-6fbd-4621-8820-5f61d6f409ff" />
